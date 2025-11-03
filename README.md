@@ -1,9 +1,9 @@
 # Group 57's final project for CMPINF0010
 Finding the best neighborhood in Pittsburgh, in terms of anti-drivability.
 
-Elias Martin
-Rory Feathers
-Alex Ellsworth
+- Elias Martin
+- Rory Feathers
+- Alex Ellsworth
 
 Datasets:
  - https://data.wprdc.org/dataset/pittsburgh-parking-authority-meter-areas/resource/c4571554-aaf1-4d02-9739-60a78875bb1d
