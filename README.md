@@ -1,6 +1,7 @@
-# Group 57's final project for CMPINF0010
+# The Pitt Parkers' final project for CMPINF0010
 Finding the best neighborhood in Pittsburgh, in terms of anti-drivability.
 
+The Pitt Parkers (Group 57) are:
 - Elias Martin
 - Rory Feathers
 - Alex Ellsworth
