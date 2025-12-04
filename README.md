@@ -8,6 +8,10 @@ The Pitt Parkers (Group 57) are:
 
 Datasets:
  - Alex, City Traffic Signs: https://data.wprdc.org/dataset/city-traffic-signs
+      - alex-notebook.ipynb
  - Rory, Parking Meter Areas: https://data.wprdc.org/dataset/pittsburgh-parking-authority-meter-areas
+      - rory-notebook.ipynb
  - Eli, Speed Humps: https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps
+      - notebook-eli.ipynb
  - Eli, Traffic Counts: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh
+      - notebook-eli-2.ipynb
